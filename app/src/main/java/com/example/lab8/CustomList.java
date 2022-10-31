@@ -55,12 +55,12 @@ public class CustomList extends ArrayAdapter<City> {
 
 
     public boolean hasCity(City city){
-     /*   if (cities.contains(city)){
+        if (cities.contains(city)){
             return true;
         }
         else{
             return false;
-        }*/
+        }
     }
 
 
